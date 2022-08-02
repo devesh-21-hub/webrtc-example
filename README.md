@@ -12,6 +12,6 @@ Installs the dependencies
 
 ### `npm run dev`
 
-Starts the server and runs the app in the development mode.\
+Starts the server and runs the app in the development mode.
 
-Open [http://localhost:9000](http://localhost:9000) to view it in the browser.\
+Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
